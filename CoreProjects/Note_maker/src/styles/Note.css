@@ -1,0 +1,69 @@
+.containerNote {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #f7f7f7;
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    width: 90%;
+    height: auto;
+    border-radius: 5%;
+    background-color: #f7f7f7;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+}
+.titulo{
+    font-size: 25px;
+    margin: 0 0 12px 0;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+    border-image: linear-gradient(to right, #f7b733, #fc4a1a);
+    border-image-slice: 1;
+    text-align: center;
+}
+.text{
+    position: relative;
+    font-size: 15px;
+
+}
+
+.delete {
+    color: rgb(235, 166, 47);
+    position: relative;
+    top: 10px;
+    left: 80%;
+}
+
+.delete:hover {
+    color: rgb(98, 74, 7);
+    cursor: pointer;
+}
+
+.delete.animating {
+  animation: shrink-grow 0.6s ease forwards;
+  color: #f7b733;
+}
+
+@keyframes shrink-grow {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.8);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

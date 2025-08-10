@@ -1,0 +1,80 @@
+.panel-files{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 9999;
+    padding: 10px;
+}
+
+.icon-wrapper{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    background-color: #e6903b;
+    border-radius: 10px;
+    margin: 5px 0 5px 0;
+    overflow: hidden;
+    width: 25px;
+    transition: transform 0.3s ease;
+}
+
+.icon-wrapper > span {
+    display: none;
+    white-space: nowrap;
+}
+
+.icon-wrapper:hover > span {
+    display: flex;
+    color: rgb(82, 82, 150);
+    font-weight:600;
+
+}
+
+.download-icon:hover {
+    cursor: pointer;
+    animation: widthGrowthDownload 0.5s ease-in-out forwards;
+}
+
+
+@keyframes widthGrowthDownload {
+
+    from {
+        width: 25px;
+    }
+    to {
+        width: 170px
+    }
+}
+
+.upload-icon:hover {
+    cursor: pointer;
+    animation: widthGrowthUpload 0.5s ease-in-out forwards;
+
+}
+
+
+@keyframes widthGrowthUpload {
+
+    from {
+        width: 25px;
+    }
+    to {
+        width: 150px
+    }
+}
+
+
+.icon-wrapper:hover > .icon-panel {
+    color: rgb(82, 82, 150);
+}
+
+.icon-panel {
+    display: flex;
+    position: relative;
+    top: 2px;
+    color: rgb(238, 237, 237);
+}
+
+.icon-wrapper.shrink {
+  transform: scale(0.9);
+}

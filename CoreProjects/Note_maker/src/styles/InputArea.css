@@ -1,0 +1,60 @@
+.containerInput {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  width: 100%;      
+  margin-left: auto;
+  margin-right: auto;
+  gap: 12px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  position:relative;
+}
+
+.inputArea, .inputText {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-size: 1rem;
+  outline-offset: 2px;
+  transition: border-color 0.3s ease;
+}
+
+.inputArea:focus, .inputText:focus {
+  border-color: #0077ff;
+}
+
+.inputText {
+  height: 100px;
+  resize: none;
+}
+
+.inputButton {
+  width: 50px;
+  height: 50px;
+  background-color: #e6903b;
+  color: white;
+  border: none;
+  padding: 12px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  position: absolute;
+  top: 80%;
+  left: 90%
+}
+
+.inputButton:hover {
+  background-color: #feceb3;
+}
+
+
+
