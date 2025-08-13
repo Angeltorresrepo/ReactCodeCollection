@@ -1,0 +1,121 @@
+.root-container {
+  position: relative;
+  height: 100vh; 
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header{
+  margin: 0 0 30px 0;
+  background-color: #3B78C0;  
+  width: 100%;
+  height: 50px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+}
+
+.span-header {
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.container-select {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  max-width: 1000px;
+  min-width: 300px;
+}
+
+.select {
+  margin: 10px;
+  max-width: 300px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+
+.currencies {
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  min-width: 300px;
+  justify-content: center;
+}
+.input-num {
+  width: 100px;
+  border-radius: 5px;
+  margin-right: 10px;
+  height: 20px;
+}
+
+.arrow-icon {
+  margin: 0 11px 0 11px;
+  position: relative;
+  top: 16px;
+  color: white;
+}
+
+.arrow-icon-inputs {
+  margin: 0 20px 0 20px;
+  position: relative;
+  top: 5px;
+  color: white;
+}
+
+.api-panel {
+  display:flex;
+  width: 400px;
+  height: 70px;
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 10px;
+  top: 50px;
+  position: relative;
+  transition: height 0.5s ease-in-out;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+}
+
+.btn-panel {
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.btn-panel.btn-dis {
+  animation: fadeOut 0.5s ease-in-out forwards;
+}
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+
+.api-panel.expanded {
+  height: 300px;
+}
+
+.x-btn {
+  position: absolute;
+  color: black;
+  margin: 5px;
+  left: 92%;
+}
+
+
+.custom__option--is-selected {
+  background-color: white !important; /* o el color que quieras */
+  color: black !important;
+}
+

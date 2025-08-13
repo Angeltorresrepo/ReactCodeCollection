@@ -1,0 +1,22 @@
+
+.btn-cal, .btn-cal.dis {
+  background-color: #3B78C0; 
+  border-color: #2b5c93;    
+  color: white;             
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  margin: 10px;
+  transition: all 0.25s ease-in-out;
+}
+
+.btn-cal.not-dis:hover {
+  background-color: #F6C85F !important; 
+  border-color: #D9A441 !important;     
+  color: black !important;              
+}
+
+.btn-cal.not-dis-api:hover{
+  background-color: #a5f65f !important; 
+  border-color: #71d941 !important;     
+  color: black !important;       
+}
+

@@ -1,0 +1,56 @@
+.tabs-container {
+  width: 90vw;
+  max-width: 600px;
+  width: 600px;
+  margin: 30px auto;
+  background: #f5f7fa;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  padding: 10px 15px 20px;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.span-chld {
+  margin: 0 0 15px 0;
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn-api {
+  background-color: red !important;
+  color: red;
+}
+
+.btn-api-div {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 0 0;
+}
+
+.btn-tmpl-div{
+  position: relative;
+  display: flex;
+  justify-content: right;
+  height: 65px;
+}
+
+.btn-tmpl {
+  position: absolute !;
+  top: 30px !important;
+}
+
+.token.operator {
+  background: none !important;
+  color: rgb(247, 211, 33) !important;
+}
+
+.token.punctuation {
+  background: none !important;
+  color: rgb(247, 211, 33) !important;
+}
+

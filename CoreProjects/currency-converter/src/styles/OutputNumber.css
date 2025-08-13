@@ -1,0 +1,11 @@
+.out-container {
+  max-width: 1000px;  
+  width: 130px;
+  border: '1px solid #ccc';
+  background-color:white;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 8px;
+  text-align: right;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}

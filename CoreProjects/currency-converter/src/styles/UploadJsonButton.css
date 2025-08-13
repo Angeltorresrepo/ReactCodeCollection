@@ -1,0 +1,12 @@
+.upload-div {
+    display: flex;
+    justify-content: center;
+}
+
+.ant-upload-wrapper {
+    padding: 10px;
+}
+
+.btn-use-dis {
+    display: none;
+}

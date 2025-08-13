@@ -1,0 +1,962 @@
+[
+  {
+    "code": "AED",
+    "place": "Dirhan de EAU",
+    "imgUrl": "https://s.fx-w.io/images/flags/aed.svg"
+  },
+  {
+    "code": "AFN",
+    "place": "Afghan Afghani",
+    "imgUrl": "https://s.fx-w.io/images/flags/afn.svg"
+  },
+  {
+    "code": "ALL",
+    "place": "Albanian Lek",
+    "imgUrl": "https://s.fx-w.io/images/flags/all.svg"
+  },
+  {
+    "code": "AMD",
+    "place": "Armenian Dram",
+    "imgUrl": "https://s.fx-w.io/images/flags/amd.svg"
+  },
+  {
+    "code": "ANG",
+    "place": "Florín de las Antillas Neerlandesas",
+    "imgUrl": "https://s.fx-w.io/images/flags/ang.svg"
+  },
+  {
+    "code": "AOA",
+    "place": "Kwanza angoleño",
+    "imgUrl": "https://s.fx-w.io/images/flags/aoa.svg"
+  },
+  {
+    "code": "ARS",
+    "place": "Peso Argentino",
+    "imgUrl": "https://s.fx-w.io/images/flags/ars.svg"
+  },
+  {
+    "code": "AUD",
+    "place": "Dólar australiano",
+    "imgUrl": "https://s.fx-w.io/images/flags/aud.svg"
+  },
+  {
+    "code": "AWG",
+    "place": "Florín arubeño",
+    "imgUrl": "https://s.fx-w.io/images/flags/awg.svg"
+  },
+  {
+    "code": "AZN",
+    "place": "Azerbaijani Manat",
+    "imgUrl": "https://s.fx-w.io/images/flags/azn.svg"
+  },
+  {
+    "code": "BAM",
+    "place": "Marca convertible de Bosnia-Herzegovina",
+    "imgUrl": "https://s.fx-w.io/images/flags/bam.svg"
+  },
+  {
+    "code": "BBD",
+    "place": "Dólar de Barbados",
+    "imgUrl": "https://s.fx-w.io/images/flags/bbd.svg"
+  },
+  {
+    "code": "BDT",
+    "place": "Taka bangladeshi",
+    "imgUrl": "https://s.fx-w.io/images/flags/bdt.svg"
+  },
+  {
+    "code": "BGN",
+    "place": "Lev Búlgaro",
+    "imgUrl": "https://s.fx-w.io/images/flags/bgn.svg"
+  },
+  {
+    "code": "BHD",
+    "place": "Bahraini dinar",
+    "imgUrl": "https://s.fx-w.io/images/flags/bhd.svg"
+  },
+  {
+    "code": "BIF",
+    "place": "Franco burundés",
+    "imgUrl": "https://s.fx-w.io/images/flags/bif.svg"
+  },
+  {
+    "code": "BMD",
+    "place": "Dólar de las Bermudas",
+    "imgUrl": "https://s.fx-w.io/images/flags/bmd.svg"
+  },
+  {
+    "code": "BND",
+    "place": "Brunei Dollar",
+    "imgUrl": "https://s.fx-w.io/images/flags/bnd.svg"
+  },
+  {
+    "code": "BOB",
+    "place": "Bolivian Boliviano",
+    "imgUrl": "https://s.fx-w.io/images/flags/bob.svg"
+  },
+  {
+    "code": "BRL",
+    "place": "Real Brasileño",
+    "imgUrl": "https://s.fx-w.io/images/flags/brl.svg"
+  },
+  {
+    "code": "BSD",
+    "place": "Dólar bahameño",
+    "imgUrl": "https://s.fx-w.io/images/flags/bsd.svg"
+  },
+  {
+    "code": "BTC",
+    "place": "Bitcoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/btc.svg"
+  },
+  {
+    "code": "BTN",
+    "place": "Ngultrum de Bhután",
+    "imgUrl": "https://s.fx-w.io/images/flags/btn.svg"
+  },
+  {
+    "code": "BTS",
+    "place": "BitShares",
+    "imgUrl": "https://s.fx-w.io/images/flags/bts.svg"
+  },
+  {
+    "code": "BWP",
+    "place": "Botswana-ko pula",
+    "imgUrl": "https://s.fx-w.io/images/flags/bwp.svg"
+  },
+  {
+    "code": "BYN",
+    "place": "Rublo bielorruso",
+    "imgUrl": "https://s.fx-w.io/images/flags/byn.svg"
+  },
+  {
+    "code": "BZD",
+    "place": "Belize Dollar",
+    "imgUrl": "https://s.fx-w.io/images/flags/bzd.svg"
+  },
+  {
+    "code": "CAD",
+    "place": "Dólar canadiense",
+    "imgUrl": "https://s.fx-w.io/images/flags/cad.svg"
+  },
+  {
+    "code": "CDF",
+    "place": "Franco congoleño",
+    "imgUrl": "https://s.fx-w.io/images/flags/cdf.svg"
+  },
+  {
+    "code": "CHF",
+    "place": "Franco Suizo",
+    "imgUrl": "https://s.fx-w.io/images/flags/chf.svg"
+  },
+  {
+    "code": "CLF",
+    "place": "Unidad de Cuenta Chilena",
+    "imgUrl": "https://s.fx-w.io/images/flags/clp.svg"
+  },
+  {
+    "code": "CLP",
+    "place": "Peso Chileno",
+    "imgUrl": "https://s.fx-w.io/images/flags/clp.svg"
+  },
+  {
+    "code": "CNH",
+    "place": "Chinese Yuan (Offshore)",
+    "imgUrl": "https://s.fx-w.io/images/flags/cny.svg"
+  },
+  {
+    "code": "CNY",
+    "place": "Chinese Yuan",
+    "imgUrl": "https://s.fx-w.io/images/flags/cny.svg"
+  },
+  {
+    "code": "COP",
+    "place": "Peso Colombiano",
+    "imgUrl": "https://s.fx-w.io/images/flags/cop.svg"
+  },
+  {
+    "code": "CRC",
+    "place": "Costa Rican Colón",
+    "imgUrl": "https://s.fx-w.io/images/flags/crc.svg"
+  },
+  {
+    "code": "CUC",
+    "place": "Peso convertible cubano",
+    "imgUrl": "https://s.fx-w.io/images/flags/cup.svg"
+  },
+  {
+    "code": "CUP",
+    "place": "Peso cubano",
+    "imgUrl": "https://s.fx-w.io/images/flags/cup.svg"
+  },
+  {
+    "code": "CVE",
+    "place": "Cape Verdean Escudo",
+    "imgUrl": "https://s.fx-w.io/images/flags/cve.svg"
+  },
+  {
+    "code": "CZK",
+    "place": "Czech Republic Koruna",
+    "imgUrl": "https://s.fx-w.io/images/flags/czk.svg"
+  },
+  {
+    "code": "DASH",
+    "place": "Dash",
+    "imgUrl": "https://s.fx-w.io/images/flags/dash.svg"
+  },
+  {
+    "code": "DJF",
+    "place": "Djiboutian Franc",
+    "imgUrl": "https://s.fx-w.io/images/flags/djf.svg"
+  },
+  {
+    "code": "DKK",
+    "place": "Corona Danesa",
+    "imgUrl": "https://s.fx-w.io/images/flags/dkk.svg"
+  },
+  {
+    "code": "DOGE",
+    "place": "DogeCoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/doge.svg"
+  },
+  {
+    "code": "DOP",
+    "place": "Peso Dominicano",
+    "imgUrl": "https://s.fx-w.io/images/flags/dop.svg"
+  },
+  {
+    "code": "DZD",
+    "place": "Dinar Argelino",
+    "imgUrl": "https://s.fx-w.io/images/flags/dzd.svg"
+  },
+  {
+    "code": "EAC",
+    "place": "EarthCoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/eac.svg"
+  },
+  {
+    "code": "EGP",
+    "place": "Libra Egipcia",
+    "imgUrl": "https://s.fx-w.io/images/flags/egp.svg"
+  },
+  {
+    "code": "EMC",
+    "place": "Emercoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/emc.svg"
+  },
+  {
+    "code": "ERN",
+    "place": "Eritrean Nakfa",
+    "imgUrl": "https://s.fx-w.io/images/flags/ern.svg"
+  },
+  {
+    "code": "ETB",
+    "place": "Ethiopian Birr",
+    "imgUrl": "https://s.fx-w.io/images/flags/etb.svg"
+  },
+  {
+    "code": "ETH",
+    "place": "Ethereum",
+    "imgUrl": "https://s.fx-w.io/images/flags/eth.svg"
+  },
+  {
+    "code": "EUR",
+    "place": "Euro",
+    "imgUrl": "https://s.fx-w.io/images/flags/eur.svg"
+  },
+  {
+    "code": "FCT",
+    "place": "Factom",
+    "imgUrl": "https://s.fx-w.io/images/flags/fct.svg"
+  },
+  {
+    "code": "FJD",
+    "place": "Dólar de Fiji",
+    "imgUrl": "https://s.fx-w.io/images/flags/fjd.svg"
+  },
+  {
+    "code": "FKP",
+    "place": "Libra malvinense",
+    "imgUrl": "https://s.fx-w.io/images/flags/fkp.svg"
+  },
+  {
+    "code": "FTC",
+    "place": "Feathercoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/ftc.svg"
+  },
+  {
+    "code": "GBP",
+    "place": "Libra esterlina",
+    "imgUrl": "https://s.fx-w.io/images/flags/gbp.svg"
+  },
+  {
+    "code": "GEL",
+    "place": "Georgian Lari",
+    "imgUrl": "https://s.fx-w.io/images/flags/gel.svg"
+  },
+  {
+    "code": "GGP",
+    "place": "Guernsey Pound",
+    "imgUrl": "https://s.fx-w.io/images/flags/ggp.svg"
+  },
+  {
+    "code": "GHS",
+    "place": "Ghanaian Cedi",
+    "imgUrl": "https://s.fx-w.io/images/flags/ghs.svg"
+  },
+  {
+    "code": "GIP",
+    "place": "Libra de Gibraltar",
+    "imgUrl": "https://s.fx-w.io/images/flags/gip.svg"
+  },
+  {
+    "code": "GMD",
+    "place": "Dalasi de Gambia",
+    "imgUrl": "https://s.fx-w.io/images/flags/gmd.svg"
+  },
+  {
+    "code": "GNF",
+    "place": "Francos guineanos",
+    "imgUrl": "https://s.fx-w.io/images/flags/gnf.svg"
+  },
+  {
+    "code": "GTQ",
+    "place": "Guatemalan Quetzal",
+    "imgUrl": "https://s.fx-w.io/images/flags/gtq.svg"
+  },
+  {
+    "code": "GYD",
+    "place": "Dólar de Guyana",
+    "imgUrl": "https://s.fx-w.io/images/flags/gyd.svg"
+  },
+  {
+    "code": "HKD",
+    "place": "Dólar de Hong Kong",
+    "imgUrl": "https://s.fx-w.io/images/flags/hkd.svg"
+  },
+  {
+    "code": "HNL",
+    "place": "Honduran Lempira",
+    "imgUrl": "https://s.fx-w.io/images/flags/hnl.svg"
+  },
+  {
+    "code": "HRK",
+    "place": "Croatian Kuna",
+    "imgUrl": "https://s.fx-w.io/images/flags/hrk.svg"
+  },
+  {
+    "code": "HTG",
+    "place": "Gourde haitiano",
+    "imgUrl": "https://s.fx-w.io/images/flags/htg.svg"
+  },
+  {
+    "code": "HUF",
+    "place": "Florín húngaro",
+    "imgUrl": "https://s.fx-w.io/images/flags/huf.svg"
+  },
+  {
+    "code": "IDR",
+    "place": "Indonesian Rupiah",
+    "imgUrl": "https://s.fx-w.io/images/flags/idr.svg"
+  },
+  {
+    "code": "ILS",
+    "place": "Nuevo Shekel israelí",
+    "imgUrl": "https://s.fx-w.io/images/flags/ils.svg"
+  },
+  {
+    "code": "IMP",
+    "place": "Manx pound",
+    "imgUrl": "https://s.fx-w.io/images/flags/imp.svg"
+  },
+  {
+    "code": "INR",
+    "place": "Rupia india",
+    "imgUrl": "https://s.fx-w.io/images/flags/inr.svg"
+  },
+  {
+    "code": "IQD",
+    "place": "Dinar iraquí",
+    "imgUrl": "https://s.fx-w.io/images/flags/iqd.svg"
+  },
+  {
+    "code": "IRR",
+    "place": "Real Iraní",
+    "imgUrl": "https://s.fx-w.io/images/flags/irr.svg"
+  },
+  {
+    "code": "ISK",
+    "place": "Icelandic Króna",
+    "imgUrl": "https://s.fx-w.io/images/flags/isk.svg"
+  },
+  {
+    "code": "JEP",
+    "place": "Jersey Pound",
+    "imgUrl": "https://s.fx-w.io/images/flags/jep.svg"
+  },
+  {
+    "code": "JMD",
+    "place": "Jamaican Dollar",
+    "imgUrl": "https://s.fx-w.io/images/flags/jmd.svg"
+  },
+  {
+    "code": "JOD",
+    "place": "Jordanian Dinar",
+    "imgUrl": "https://s.fx-w.io/images/flags/jod.svg"
+  },
+  {
+    "code": "JPY",
+    "place": "Yen japonés",
+    "imgUrl": "https://s.fx-w.io/images/flags/jpy.svg"
+  },
+  {
+    "code": "KES",
+    "place": "Chelín keniano",
+    "imgUrl": "https://s.fx-w.io/images/flags/kes.svg"
+  },
+  {
+    "code": "KGS",
+    "place": "Kyrgyzstani Som",
+    "imgUrl": "https://s.fx-w.io/images/flags/kgs.svg"
+  },
+  {
+    "code": "KHR",
+    "place": "Cambodian Riel",
+    "imgUrl": "https://s.fx-w.io/images/flags/khr.svg"
+  },
+  {
+    "code": "KMF",
+    "place": "Comorian Franc",
+    "imgUrl": "https://s.fx-w.io/images/flags/kmf.svg"
+  },
+  {
+    "code": "KPW",
+    "place": "Won norcoreano",
+    "imgUrl": "https://s.fx-w.io/images/flags/kpw.svg"
+  },
+  {
+    "code": "KRW",
+    "place": "Won surcoreano",
+    "imgUrl": "https://s.fx-w.io/images/flags/krw.svg"
+  },
+  {
+    "code": "KWD",
+    "place": "Dinar kuwaití",
+    "imgUrl": "https://s.fx-w.io/images/flags/kwd.svg"
+  },
+  {
+    "code": "KYD",
+    "place": "Dólar de las Islas Caimán",
+    "imgUrl": "https://s.fx-w.io/images/flags/kyd.svg"
+  },
+  {
+    "code": "KZT",
+    "place": "Tenge de Kazajistan",
+    "imgUrl": "https://s.fx-w.io/images/flags/kzt.svg"
+  },
+  {
+    "code": "LAK",
+    "place": "Kip de Laos",
+    "imgUrl": "https://s.fx-w.io/images/flags/lak.svg"
+  },
+  {
+    "code": "LBP",
+    "place": "Lebanese Pound",
+    "imgUrl": "https://s.fx-w.io/images/flags/lbp.svg"
+  },
+  {
+    "code": "LD",
+    "place": "Linden Dollar",
+    "imgUrl": "https://s.fx-w.io/images/flags/ld.svg"
+  },
+  {
+    "code": "LKR",
+    "place": "Sri Lankan rupee",
+    "imgUrl": "https://s.fx-w.io/images/flags/lkr.svg"
+  },
+  {
+    "code": "LRD",
+    "place": "Dólar liberiano",
+    "imgUrl": "https://s.fx-w.io/images/flags/lrd.svg"
+  },
+  {
+    "code": "LSL",
+    "place": "Loti Lesotho",
+    "imgUrl": "https://s.fx-w.io/images/flags/lsl.svg"
+  },
+  {
+    "code": "LTC",
+    "place": "LiteCoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/ltc.svg"
+  },
+  {
+    "code": "LYD",
+    "place": "Libyan Dinar",
+    "imgUrl": "https://s.fx-w.io/images/flags/lyd.svg"
+  },
+  {
+    "code": "MAD",
+    "place": "Moroccan Dirham",
+    "imgUrl": "https://s.fx-w.io/images/flags/mad.svg"
+  },
+  {
+    "code": "MDL",
+    "place": "Leu moldavo",
+    "imgUrl": "https://s.fx-w.io/images/flags/mdl.svg"
+  },
+  {
+    "code": "MGA",
+    "place": "Malagasy Ariary",
+    "imgUrl": "https://s.fx-w.io/images/flags/mgf.svg"
+  },
+  {
+    "code": "MKD",
+    "place": "Denar macedonio",
+    "imgUrl": "https://s.fx-w.io/images/flags/mkd.svg"
+  },
+  {
+    "code": "MMK",
+    "place": "Myanmar kyat",
+    "imgUrl": "https://s.fx-w.io/images/flags/mmk.svg"
+  },
+  {
+    "code": "MNT",
+    "place": "Tugrik de Mongolia",
+    "imgUrl": "https://s.fx-w.io/images/flags/mnt.svg"
+  },
+  {
+    "code": "MOP",
+    "place": "Macanese Pataca",
+    "imgUrl": "https://s.fx-w.io/images/flags/mop.svg"
+  },
+  {
+    "code": "MRO",
+    "place": "Ouguiya de Mauritania",
+    "imgUrl": "https://s.fx-w.io/images/flags/mro.svg"
+  },
+  {
+    "code": "MRU",
+    "place": "Mauritanian Ouguiya",
+    "imgUrl": "https://s.fx-w.io/images/flags/mru.svg"
+  },
+  {
+    "code": "MUR",
+    "place": "Mauritian Rupee",
+    "imgUrl": "https://s.fx-w.io/images/flags/mur.svg"
+  },
+  {
+    "code": "MVR",
+    "place": "Rufiyaa de Maldivas",
+    "imgUrl": "https://s.fx-w.io/images/flags/mvr.svg"
+  },
+  {
+    "code": "MWK",
+    "place": "Kwacha malauí",
+    "imgUrl": "https://s.fx-w.io/images/flags/mwk.svg"
+  },
+  {
+    "code": "MXN",
+    "place": "Peso Mexicano",
+    "imgUrl": "https://s.fx-w.io/images/flags/mxn.svg"
+  },
+  {
+    "code": "MYR",
+    "place": "Ringgit Malasio",
+    "imgUrl": "https://s.fx-w.io/images/flags/myr.svg"
+  },
+  {
+    "code": "MZN",
+    "place": "Mozambican Metical",
+    "imgUrl": "https://s.fx-w.io/images/flags/mzn.svg"
+  },
+  {
+    "code": "NAD",
+    "place": "Namibian Dollar",
+    "imgUrl": "https://s.fx-w.io/images/flags/nad.svg"
+  },
+  {
+    "code": "NGN",
+    "place": "Narra nigeriano",
+    "imgUrl": "https://s.fx-w.io/images/flags/ngn.svg"
+  },
+  {
+    "code": "NIO",
+    "place": "Nicaraguan Córdoba",
+    "imgUrl": "https://s.fx-w.io/images/flags/nio.svg"
+  },
+  {
+    "code": "NMC",
+    "place": "Namecoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/nmc.svg"
+  },
+  {
+    "code": "NOK",
+    "place": "Corona Noruega",
+    "imgUrl": "https://s.fx-w.io/images/flags/nok.svg"
+  },
+  {
+    "code": "NPR",
+    "place": "Nepalese Rupee",
+    "imgUrl": "https://s.fx-w.io/images/flags/npr.svg"
+  },
+  {
+    "code": "NVC",
+    "place": "NovaCoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/nvc.svg"
+  },
+  {
+    "code": "NXT",
+    "place": "Nxt",
+    "imgUrl": "https://s.fx-w.io/images/flags/nxt.svg"
+  },
+  {
+    "code": "NZD",
+    "place": "Dólar de Nueva Zelanda",
+    "imgUrl": "https://s.fx-w.io/images/flags/nzd.svg"
+  },
+  {
+    "code": "OMR",
+    "place": "Rial Omaní",
+    "imgUrl": "https://s.fx-w.io/images/flags/omr.svg"
+  },
+  {
+    "code": "PAB",
+    "place": "Panamanian Balboa",
+    "imgUrl": "https://s.fx-w.io/images/flags/pab.svg"
+  },
+  {
+    "code": "PEN",
+    "place": "Peruvian Nuevo Sol",
+    "imgUrl": "https://s.fx-w.io/images/flags/pen.svg"
+  },
+  {
+    "code": "PGK",
+    "place": "Kina de Papúa Nueva Guinea",
+    "imgUrl": "https://s.fx-w.io/images/flags/pgk.svg"
+  },
+  {
+    "code": "PHP",
+    "place": "Peso Filipino",
+    "imgUrl": "https://s.fx-w.io/images/flags/php.svg"
+  },
+  {
+    "code": "PKR",
+    "place": "Rupia pakistaní",
+    "imgUrl": "https://s.fx-w.io/images/flags/pkr.svg"
+  },
+  {
+    "code": "PLN",
+    "place": "Zloty polaco",
+    "imgUrl": "https://s.fx-w.io/images/flags/pln.svg"
+  },
+  {
+    "code": "PPC",
+    "place": "Peercoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/ppc.svg"
+  },
+  {
+    "code": "PYG",
+    "place": "Paraguayan Guarani",
+    "imgUrl": "https://s.fx-w.io/images/flags/pyg.svg"
+  },
+  {
+    "code": "QAR",
+    "place": "Qatari Rial",
+    "imgUrl": "https://s.fx-w.io/images/flags/qar.svg"
+  },
+  {
+    "code": "RON",
+    "place": "Leu Rumano",
+    "imgUrl": "https://s.fx-w.io/images/flags/ron.svg"
+  },
+  {
+    "code": "RSD",
+    "place": "Serbian Dinar",
+    "imgUrl": "https://s.fx-w.io/images/flags/rsd.svg"
+  },
+  {
+    "code": "RUB",
+    "place": "Rublos Rusos",
+    "imgUrl": "https://s.fx-w.io/images/flags/rub.svg"
+  },
+  {
+    "code": "RWF",
+    "place": "Rwandan Franc",
+    "imgUrl": "https://s.fx-w.io/images/flags/rwf.svg"
+  },
+  {
+    "code": "SAR",
+    "place": "Riyal de Arabia Saudita",
+    "imgUrl": "https://s.fx-w.io/images/flags/sar.svg"
+  },
+  {
+    "code": "SBD",
+    "place": "Dólar de las Islas Salomón",
+    "imgUrl": "https://s.fx-w.io/images/flags/sbd.svg"
+  },
+  {
+    "code": "SCR",
+    "place": "Rupia de Seychelles",
+    "imgUrl": "https://s.fx-w.io/images/flags/scr.svg"
+  },
+  {
+    "code": "SDG",
+    "place": "Sudanese Pound",
+    "imgUrl": "https://s.fx-w.io/images/flags/sdg.svg"
+  },
+  {
+    "code": "SEK",
+    "place": "Corona Sueca",
+    "imgUrl": "https://s.fx-w.io/images/flags/sek.svg"
+  },
+  {
+    "code": "SGD",
+    "place": "Dólar de Singapur",
+    "imgUrl": "https://s.fx-w.io/images/flags/sgd.svg"
+  },
+  {
+    "code": "SHP",
+    "place": "Libra de Santa Elena",
+    "imgUrl": "https://s.fx-w.io/images/flags/shp.svg"
+  },
+  {
+    "code": "SLL",
+    "place": "Leona de Sierra Leona",
+    "imgUrl": "https://s.fx-w.io/images/flags/sll.svg"
+  },
+  {
+    "code": "SOS",
+    "place": "Somali Shilling",
+    "imgUrl": "https://s.fx-w.io/images/flags/sos.svg"
+  },
+  {
+    "code": "SRD",
+    "place": "Dólar surinamés",
+    "imgUrl": "https://s.fx-w.io/images/flags/srd.svg"
+  },
+  {
+    "code": "SSP",
+    "place": "Sudán del Sur",
+    "imgUrl": "https://s.fx-w.io/images/flags/ssp.svg"
+  },
+  {
+    "code": "STD",
+    "place": "Santo Tomé y Príncipe Dobra",
+    "imgUrl": "https://s.fx-w.io/images/flags/stn.svg"
+  },
+  {
+    "code": "STN",
+    "place": "São Tomé and Príncipe Dobra",
+    "imgUrl": "https://s.fx-w.io/images/flags/stn.svg"
+  },
+  {
+    "code": "STR",
+    "place": "Stellar",
+    "imgUrl": "https://s.fx-w.io/images/flags/str.svg"
+  },
+  {
+    "code": "SVC",
+    "place": "Salvadoran Colón",
+    "imgUrl": "https://s.fx-w.io/images/flags/svc.svg"
+  },
+  {
+    "code": "SYP",
+    "place": "Syrian Pound",
+    "imgUrl": "https://s.fx-w.io/images/flags/syp.svg"
+  },
+  {
+    "code": "SZL",
+    "place": "Swazi Lilangeni",
+    "imgUrl": "https://s.fx-w.io/images/flags/szl.svg"
+  },
+  {
+    "code": "THB",
+    "place": "Baht tailandés",
+    "imgUrl": "https://s.fx-w.io/images/flags/thb.svg"
+  },
+  {
+    "code": "TJS",
+    "place": "Somoni de Tayikistán",
+    "imgUrl": "https://s.fx-w.io/images/flags/tjs.svg"
+  },
+  {
+    "code": "TMT",
+    "place": "Manat de Turkmenistán",
+    "imgUrl": "https://s.fx-w.io/images/flags/tmt.svg"
+  },
+  {
+    "code": "TND",
+    "place": "Dinar Tunecino",
+    "imgUrl": "https://s.fx-w.io/images/flags/tnd.svg"
+  },
+  {
+    "code": "TOP",
+    "place": "Paʻanga",
+    "imgUrl": "https://s.fx-w.io/images/flags/top.svg"
+  },
+  {
+    "code": "TRY",
+    "place": "Lira Turca",
+    "imgUrl": "https://s.fx-w.io/images/flags/try.svg"
+  },
+  {
+    "code": "TTD",
+    "place": "Dólar de Trinidad y Tobago",
+    "imgUrl": "https://s.fx-w.io/images/flags/ttd.svg"
+  },
+  {
+    "code": "TWD",
+    "place": "Nuevo Dolar Taiwanes",
+    "imgUrl": "https://s.fx-w.io/images/flags/twd.svg"
+  },
+  {
+    "code": "TZS",
+    "place": "Chelín tanzano",
+    "imgUrl": "https://s.fx-w.io/images/flags/tzs.svg"
+  },
+  {
+    "code": "UAH",
+    "place": "Hryvnia Ucraniana",
+    "imgUrl": "https://s.fx-w.io/images/flags/uah.svg"
+  },
+  {
+    "code": "UGX",
+    "place": "Chelín ugandés",
+    "imgUrl": "https://s.fx-w.io/images/flags/ugx.svg"
+  },
+  {
+    "code": "USD",
+    "place": "Dólar estadounidense",
+    "imgUrl": "https://s.fx-w.io/images/flags/usd.svg"
+  },
+  {
+    "code": "UYU",
+    "place": "Peso uruguayo",
+    "imgUrl": "https://s.fx-w.io/images/flags/uyu.svg"
+  },
+  {
+    "code": "UZS",
+    "place": "Som uzbeko",
+    "imgUrl": "https://s.fx-w.io/images/flags/uzs.svg"
+  },
+  {
+    "code": "VES",
+    "place": "Venezuelan Bolívar Soberano",
+    "imgUrl": "https://s.fx-w.io/images/flags/vef.svg"
+  },
+  {
+    "code": "VND",
+    "place": "Dong vietnamita",
+    "imgUrl": "https://s.fx-w.io/images/flags/vnd.svg"
+  },
+  {
+    "code": "VTC",
+    "place": "VertCoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/vtc.svg"
+  },
+  {
+    "code": "VUV",
+    "place": "Vanuatu Vatu",
+    "imgUrl": "https://s.fx-w.io/images/flags/vuv.svg"
+  },
+  {
+    "code": "WST",
+    "place": "Tala de Samoa",
+    "imgUrl": "https://s.fx-w.io/images/flags/wst.svg"
+  },
+  {
+    "code": "XAF",
+    "place": "Franco BEAC CFA",
+    "imgUrl": "https://s.fx-w.io/images/flags/xaf.svg"
+  },
+  {
+    "code": "XAG",
+    "place": "Silver Ounce",
+    "imgUrl": "https://s.fx-w.io/images/flags/xag.svg"
+  },
+  {
+    "code": "XAU",
+    "place": "Gold Ounce",
+    "imgUrl": "https://s.fx-w.io/images/flags/xau.svg"
+  },
+  {
+    "code": "XCD",
+    "place": "Dólar del Caribe Oriental",
+    "imgUrl": "https://s.fx-w.io/images/flags/xcd.svg"
+  },
+  {
+    "code": "XDR",
+    "place": "Special Drawing Rights",
+    "imgUrl": "https://s.fx-w.io/images/flags/xpf.svg"
+  },
+  {
+    "code": "XMR",
+    "place": "Monero",
+    "imgUrl": "https://s.fx-w.io/images/flags/xmr.svg"
+  },
+  {
+    "code": "XOF",
+    "place": "Franco BCEAO CFA",
+    "imgUrl": "https://s.fx-w.io/images/flags/xof.svg"
+  },
+  {
+    "code": "XPD",
+    "place": "Palladium Ounce",
+    "imgUrl": "https://s.fx-w.io/images/flags/xpd.svg"
+  },
+  {
+    "code": "XPF",
+    "place": "Franco CFP",
+    "imgUrl": "https://s.fx-w.io/images/flags/xpf.svg"
+  },
+  {
+    "code": "XPM",
+    "place": "Primecoin",
+    "imgUrl": "https://s.fx-w.io/images/flags/xpm.svg"
+  },
+  {
+    "code": "XPT",
+    "place": "Platinum Ounce",
+    "imgUrl": "https://s.fx-w.io/images/flags/xpt.svg"
+  },
+  {
+    "code": "XRP",
+    "place": "Ripple",
+    "imgUrl": "https://s.fx-w.io/images/flags/xrp.svg"
+  },
+  {
+    "code": "YER",
+    "place": "Rial yemení",
+    "imgUrl": "https://s.fx-w.io/images/flags/yer.svg"
+  },
+  {
+    "code": "ZAR",
+    "place": "Rand sudafricano",
+    "imgUrl": "https://s.fx-w.io/images/flags/zar.svg"
+  },
+  {
+    "code": "ZMW",
+    "place": "Zambian kwacha",
+    "imgUrl": "https://s.fx-w.io/images/flags/zmw.svg"
+  },
+  {
+    "code": "ZWL",
+    "place": "Dólar de Zimbabwe",
+    "imgUrl": "https://s.fx-w.io/images/flags/zwd.svg"
+  },
+  {
+    "code": "ZWG",
+    "place": "Zimbabue ZiG",
+    "imgUrl": "https://s.fx-w.io/images/flags/zwd.svg"
+  },
+  {
+    "code": "XCG",
+    "place": "Florín caribeño",
+    "imgUrl": "https://s.fx-w.io/images/flags/ang.svg"
+  },
+  {
+    "code": "SLE",
+    "place": "Leona de Sierra Leona",
+    "imgUrl": "https://s.fx-w.io/images/flags/sll.svg"
+  }
+]

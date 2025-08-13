@@ -1,0 +1,97 @@
+
+.ant-tabs-nav {
+  background: #e1e8f0;
+  padding: 8px 12px;
+  border-radius: 10px 10px 0 0;
+  border-bottom: 2px solid #ccc;
+  overflow-x: visible;
+  white-space: nowrap;
+
+}
+
+.table .ant-table-thead > tr > th {
+  text-align: center !important;
+}
+
+.table .ant-table-tbody > tr > td {
+  text-align: center !important;
+  vertical-align: middle !important;
+}
+
+.ant-tabs-nav-list {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+
+.ant-tabs-tab {
+  background: #d6dde9;
+  margin-right: 10px;
+  border-radius: 6px 6px 0 0;
+  padding: 6px 16px !important;
+  border: 1px solid transparent;
+  transition: background-color 0.3s ease;
+  white-space: nowrap;
+  font-weight: 500;
+  color: #444;
+}
+
+.ant-tabs-tab:hover {
+  background: #c1c9d9;
+}
+
+.ant-tabs-tab-active {
+  color: white !important;
+  border-radius: 6px 6px 0 0;
+  font-weight: 700;
+  transform: none !important;
+}
+
+.ant-select-selector, .ant-pagination-options {
+  display: none !important;
+}
+
+.ant-tabs-content-holder {
+  background: white;
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+  min-height: 280px;
+  overflow-x: visible;
+  box-sizing: border-box;
+
+}
+
+.table {
+  width: 100% !important;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.table img {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
+.table .ant-table-cell {
+  padding: 10px 12px;
+  font-size: 14px;
+  color: #222;
+  justify-items: center;
+}
+
+.table .ant-table-thead > tr > th {
+  background: #f0f2f5;
+  font-weight: 600;
+  color: #555;
+  border-bottom: 2px solid #d9d9d9;
+}
+
+.table .ant-table-content {
+  overflow-x: auto;
+}
+
+.table .ant-pagination {
+  margin-top: 12px;
+  text-align: right;
+}
