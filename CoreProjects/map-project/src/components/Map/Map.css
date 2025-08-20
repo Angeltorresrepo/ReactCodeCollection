@@ -1,0 +1,64 @@
+.provincia-path {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  transform-origin: center center;
+}
+
+.continent-pressed {
+  transform: scale(0.95);
+  transform-origin: center;
+  transition: transform 0.15s ease;
+}
+
+.popup-container .leaflet-popup-content-wrapper {
+  background: #1e1e2f;              
+  color: #e0e0e0;                   
+  border-radius: 14px;              
+  border: 2px solid #00d4ff;        
+  box-shadow: 0 6px 18px rgba(0,0,0,0.6),
+              0 0 12px rgba(0,212,255,0.5);
+  padding: 12px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.popup-container .leaflet-popup-tip {
+  background: #1e1e2f;
+  border: 2px solid #00d4ff;
+}
+
+.popup-container .leaflet-popup-content {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.popup-container .leaflet-popup-content h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #00d4ff;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  padding-bottom: 4px;
+  text-align: center;
+}
+
+.popup-container .leaflet-popup-content p {
+  margin: 4px 0;
+}
+
+.popup-container .leaflet-popup-content .confirmed {
+  color: #4caf50; 
+  font-weight: bold;
+}
+
+.popup-container .leaflet-popup-content .deaths {
+  color: #ff5252; 
+  font-weight: bold;
+}
+
+.popup-container .leaflet-popup-content .rate {
+  color: #ffc107; 
+  font-weight: bold;
+}
+
+
+

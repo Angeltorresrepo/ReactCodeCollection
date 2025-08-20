@@ -1,0 +1,12 @@
+
+/*.mapContainer {
+  width: 90%;  
+  height: 90%;
+  box-sizing: border-box;
+}
+
+.mapContainer {
+  width: 800px;   
+  height: 600px;  
+  border: 1px solid red; 
+}
